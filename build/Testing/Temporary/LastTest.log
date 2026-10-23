@@ -1,0 +1,19 @@
+Start testing: Oct 23 16:43 RTZ 2 (зима)
+----------------------------------------------------------
+1/1 Testing: cpu_tests
+1/1 Test: cpu_tests
+Command: "C:/Users/User/Desktop/РџСЂРѕРµРєС‚С‹/GitHub/Р РµР»РёР·/PHANTOM вЂ” Virtual Computing Platform/build/Debug/cpu_tests.exe"
+Directory: C:/Users/User/Desktop/РџСЂРѕРµРєС‚С‹/GitHub/Р РµР»РёР·/PHANTOM вЂ” Virtual Computing Platform/build
+"cpu_tests" start time: Oct 23 16:43 RTZ 2 (зима)
+Output:
+----------------------------------------------------------
+cpu tests passed
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"cpu_tests" end time: Oct 23 16:43 RTZ 2 (зима)
+"cpu_tests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 23 16:43 RTZ 2 (зима)

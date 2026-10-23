@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="18.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\User\Desktop\Проекты\GitHub\Релиз\PHANTOM — Virtual Computing Platform\build\CMakeFiles\482c02590e015b038f746b9a41a0780c\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{14F35222-0FC9-3D0E-B575-3C243224F75D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
